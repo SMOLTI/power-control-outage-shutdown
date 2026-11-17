@@ -17,7 +17,8 @@
 
 > Під час встановлення Windows може попросити дозвіл адміністратора, це нормально: програма ставиться в Program Files.
 
----
+---<img width="900" height="675" alt="Снимок экрана 2026-11-17 210619" src="https://github.com/user-attachments/assets/cb24a95e-35ec-4cae-8ca3-3e2e1ff56543" />
+
 
 ## Що вміє
 
@@ -30,7 +31,7 @@
 - Веде журнал подій та статистику відключень.
 - Кілька тем оформлення.
 
----
+---<img width="711" height="765" alt="Снимок экрана 2026-11-17 211127" src="https://github.com/user-attachments/assets/4b9968d8-d73a-4ca8-be90-2461084f2ec5" /> <img width="710" height="487" alt="Снимок экрана 2026-11-17 211103" src="https://github.com/user-attachments/assets/d31b1c5b-cb61-448a-9aa5-ca2058cf9dd9" /> <img width="460" height="495" alt="Снимок экрана 2026-11-17 211158" src="https://github.com/user-attachments/assets/a6560de1-7a74-4f6e-9d3b-3679b38d5de5" /> <img width="500" height="560" alt="Снимок экрана 2026-11-17 211458" src="https://github.com/user-attachments/assets/af16926d-b905-4818-9a07-309eb809b08e" /> <img width="500" height="566" alt="Снимок экрана 2026-11-17 211508" src="https://github.com/user-attachments/assets/2cdd50cd-e9c7-4be6-9d9c-fd29e5a3ac80" />
 
 ## Звідки беруться дані
 
@@ -87,3 +88,6 @@ Telegram: [t.me/SMOLTI](https://t.me/SMOLTI)
 
 Подяка:
 Якщо програма стала вам у пригоді можете підтримати автора у програмі буду дуже вдячний 😊
+
+<img width="485" height="425" alt="Снимок экрана 2026-11-17 211656" src="https://github.com/user-attachments/assets/960cee4f-ea2d-43ee-8979-44c7372f18cf" />
+
