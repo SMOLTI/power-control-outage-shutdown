@@ -34,7 +34,7 @@
 
 <img width="711" height="765" alt="Снимок экрана 2026-11-17 212320" src="https://github.com/user-attachments/assets/198ad477-3357-4e7a-b95b-6882e0428666" /> <img width="710" height="487" alt="Снимок экрана 2026-11-17 212336" src="https://github.com/user-attachments/assets/6721303f-2e73-40c3-b98b-4fb058fa4043" />
 
-## Налаштунки
+## Налаштування
 
 Запустити програму разом із windows.
 Запустити програму в треї разом із windows.
