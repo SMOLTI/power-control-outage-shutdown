@@ -31,7 +31,9 @@
 - Веде журнал подій та статистику відключень.
 - Кілька тем оформлення.
 
----<img width="711" height="765" alt="Снимок экрана 2026-11-17 211127" src="https://github.com/user-attachments/assets/4b9968d8-d73a-4ca8-be90-2461084f2ec5" /> <img width="710" height="487" alt="Снимок экрана 2026-11-17 211103" src="https://github.com/user-attachments/assets/d31b1c5b-cb61-448a-9aa5-ca2058cf9dd9" /> <img width="460" height="495" alt="Снимок экрана 2026-11-17 211158" src="https://github.com/user-attachments/assets/a6560de1-7a74-4f6e-9d3b-3679b38d5de5" /> <img width="500" height="560" alt="Снимок экрана 2026-11-17 211458" src="https://github.com/user-attachments/assets/af16926d-b905-4818-9a07-309eb809b08e" /> <img width="500" height="566" alt="Снимок экрана 2026-11-17 211508" src="https://github.com/user-attachments/assets/2cdd50cd-e9c7-4be6-9d9c-fd29e5a3ac80" />
+---<img width="711" height="765" alt="Снимок экрана 2026-11-17 212320" src="https://github.com/user-attachments/assets/198ad477-3357-4e7a-b95b-6882e0428666" /> <img width="710" height="487" alt="Снимок экрана 2026-11-17 212336" src="https://github.com/user-attachments/assets/6721303f-2e73-40c3-b98b-4fb058fa4043" />
+
+
 
 ## Звідки беруться дані
 
