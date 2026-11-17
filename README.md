@@ -41,33 +41,21 @@
 
 У програмі є вікно **«Джерела»** (у розділі «Про програму»): там для вашої області показано джерело, автора та ліцензію.
 
-| Область / місто | Звідки береться графік
-
-| Сумська | Сервіс «Світло Суми» (`api.svitlosumy.pp.ua`)
-
-| Черкаська | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA)
-
-| Чернігівська | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA)
-
-| Харківська | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA)
-
-| Хмельницька | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA)
-
-| Полтавська | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA)
-
-| Запорізька | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA)
-
-| Житомирська | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA)
-
-| м. Київ | [Baskerville42/outage-data-ua](https://github.com/Baskerville42/outage-data-ua)
-
-| Київська | [Baskerville42/outage-data-ua](https://github.com/Baskerville42/outage-data-ua) (MIT)
-
-| Одеська | [Baskerville42/outage-data-ua](https://github.com/Baskerville42/outage-data-ua) (MIT)
-
-| Дніпропетровська (ДТЕК) | [Baskerville42/outage-data-ua](https://github.com/Baskerville42/outage-data-ua) (MIT)
-
-| Дніпропетровська (ЦЕК) | [szheliab/DNIPRO_CEK_PARSER](https://github.com/szheliab/DNIPRO_CEK_PARSER)
+| Область / місто | Звідки береться графік |
+|---|---|
+| Сумська | Сервіс «Світло Суми» (`api.svitlosumy.pp.ua`) |
+| Черкаська | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA) |
+| Чернігівська | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA) |
+| Харківська | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA) |
+| Хмельницька | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA) |
+| Полтавська | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA) |
+| Запорізька | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA) |
+| Житомирська | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA) |
+| м. Київ | [Baskerville42/outage-data-ua](https://github.com/Baskerville42/outage-data-ua) (MIT) |
+| Київська | [Baskerville42/outage-data-ua](https://github.com/Baskerville42/outage-data-ua) (MIT) |
+| Одеська | [Baskerville42/outage-data-ua](https://github.com/Baskerville42/outage-data-ua) (MIT) |
+| Дніпропетровська (ДТЕК) | [Baskerville42/outage-data-ua](https://github.com/Baskerville42/outage-data-ua) (MIT) |
+| Дніпропетровська (ЦЕК) | [szheliab/DNIPRO_CEK_PARSER](https://github.com/szheliab/DNIPRO_CEK_PARSER) |
 
 Про ліцензії: автори `yaroslav2901/OE_OUTAGE_DATA` та `szheliab/DNIPRO_CEK_PARSER` ліцензію у своїх репозиторіях не вказали. Програма не копіює їхні тексти, лише читає опубліковані файли з даними та дає посилання на авторів.
 
