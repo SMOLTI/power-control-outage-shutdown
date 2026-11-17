@@ -17,7 +17,7 @@
 
 > Під час встановлення Windows може попросити дозвіл адміністратора, це нормально: програма ставиться в Program Files.
 
----<img width="900" height="675" alt="Снимок экрана 2026-11-17 210619" src="https://github.com/user-attachments/assets/cb24a95e-35ec-4cae-8ca3-3e2e1ff56543" />
+<img width="900" height="675" alt="Снимок экрана 2026-11-17 210619" src="https://github.com/user-attachments/assets/cb24a95e-35ec-4cae-8ca3-3e2e1ff56543" />
 
 
 ## Що вміє
@@ -31,7 +31,7 @@
 - Веде журнал подій та статистику відключень.
 - Кілька тем оформлення.
 
----<img width="711" height="765" alt="Снимок экрана 2026-11-17 212320" src="https://github.com/user-attachments/assets/198ad477-3357-4e7a-b95b-6882e0428666" /> <img width="710" height="487" alt="Снимок экрана 2026-11-17 212336" src="https://github.com/user-attachments/assets/6721303f-2e73-40c3-b98b-4fb058fa4043" />
+<img width="711" height="765" alt="Снимок экрана 2026-11-17 212320" src="https://github.com/user-attachments/assets/198ad477-3357-4e7a-b95b-6882e0428666" /> <img width="710" height="487" alt="Снимок экрана 2026-11-17 212336" src="https://github.com/user-attachments/assets/6721303f-2e73-40c3-b98b-4fb058fa4043" />
 
 
 
@@ -41,8 +41,8 @@
 
 У програмі є вікно **«Джерела»** (у розділі «Про програму»): там для вашої області показано джерело, автора та ліцензію.
 
-| Область / місто | Звідки береться графік | Офіційна сторінка обленерго |
-|---|---|---|
+| Область / місто | Звідки береться графік
+
 | Сумська | Сервіс «Світло Суми» (`api.svitlosumy.pp.ua`)
 
 | Черкаська | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA)
