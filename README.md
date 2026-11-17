@@ -40,30 +40,30 @@
 
 | Область / місто | Звідки береться графік | Офіційна сторінка обленерго |
 |---|---|---|
-| Сумська | Сервіс «Світло Суми» (`api.svitlosumy.pp.ua`) | [soe.com.ua](https://www.soe.com.ua/consumers/shutdowns?tab=hourly-schedules) |
+| Сумська | Сервіс «Світло Суми» (`api.svitlosumy.pp.ua`)
 
-| Черкаська | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA) | [cherkasyoblenergo.com](https://cherkasyoblenergo.com/off) |
+| Черкаська | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA)
 
-| Чернігівська | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA) | [chernihivoblenergo.com.ua](https://chernihivoblenergo.com.ua/blackouts) |
-| Харківська | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA) | [oblenergo.kharkov.ua](https://oblenergo.kharkov.ua/uk/gaoinfo) |
+| Чернігівська | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA)
+| Харківська | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA)
 
-| Хмельницька | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA) | [hoe.com.ua](https://hoe.com.ua/shutdown/new) |
+| Хмельницька | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA)
 
-| Полтавська | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA) | [poe.pl.ua](https://www.poe.pl.ua/disconnection/power-outages/) |
+| Полтавська | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA)
 
-| Запорізька | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA) | [zoe.com.ua](https://www.zoe.com.ua/%D0%B3%D1%80%D0%B0%D1%84%D1%96%D0%BA%D0%B8-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%BD%D0%B8%D1%85-%D1%81%D1%82%D0%B0%D0%B1%D1%96%D0%BB%D1%96%D0%B7%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%B8%D1%85/) |
+| Запорізька | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA)
 
-| Житомирська | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA) | [ztoe.com.ua](https://www.ztoe.com.ua/unhooking-search.php) |
+| Житомирська | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA)
 
-| м. Київ | [Baskerville42/outage-data-ua](https://github.com/Baskerville42/outage-data-ua) (ліцензія MIT, Alexander Tartmin) | [dtek-kem.com.ua](https://www.dtek-kem.com.ua/ua/shutdowns) |
+| м. Київ | [Baskerville42/outage-data-ua](https://github.com/Baskerville42/outage-data-ua)
 
-| Київська | [Baskerville42/outage-data-ua](https://github.com/Baskerville42/outage-data-ua) (MIT) | [dtek-krem.com.ua](https://www.dtek-krem.com.ua/ua/shutdowns) |
+| Київська | [Baskerville42/outage-data-ua](https://github.com/Baskerville42/outage-data-ua) (MIT)
 
-| Одеська | [Baskerville42/outage-data-ua](https://github.com/Baskerville42/outage-data-ua) (MIT) | [dtek-oem.com.ua](https://www.dtek-oem.com.ua/ua/shutdowns) |
+| Одеська | [Baskerville42/outage-data-ua](https://github.com/Baskerville42/outage-data-ua) (MIT)
 
-| Дніпропетровська (ДТЕК) | [Baskerville42/outage-data-ua](https://github.com/Baskerville42/outage-data-ua) (MIT) | [dtek-dnem.com.ua](https://www.dtek-dnem.com.ua/ua/shutdowns) |
+| Дніпропетровська (ДТЕК) | [Baskerville42/outage-data-ua](https://github.com/Baskerville42/outage-data-ua) (MIT)
 
-| Дніпропетровська (ЦЕК) | [szheliab/DNIPRO_CEK_PARSER](https://github.com/szheliab/DNIPRO_CEK_PARSER) | [cek.dp.ua](https://cek.dp.ua/index.php/24-callcenter/70-planovi-vidklyuchennya.html) |
+| Дніпропетровська (ЦЕК) | [szheliab/DNIPRO_CEK_PARSER](https://github.com/szheliab/DNIPRO_CEK_PARSER)
 
 Про ліцензії: автори `yaroslav2901/OE_OUTAGE_DATA` та `szheliab/DNIPRO_CEK_PARSER` ліцензію у своїх репозиторіях не вказали. Програма не копіює їхні тексти, лише читає опубліковані файли з даними та дає посилання на авторів.
 
