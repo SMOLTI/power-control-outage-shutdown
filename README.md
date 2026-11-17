@@ -1,2 +1,88 @@
-# power-control-outage-shutdown
-Автовимкнення ПК перед відключенням світла за графіком. Програма для Windows: графіки відключень, черги, ДТЕК та обленерго.
+# POWER CONTROL: автовимкнення комп'ютера перед відключенням світла
+
+**Програма для Windows, яка слідкує за графіками відключень світла і сама вимикає ПК до початку відключення.**
+
+Ви обираєте свою область і чергу (`1.1` … `6.2`), а далі програма працює в треї біля годинника: перевіряє графіки відключень обленерго та ДТЕК і заздалегідь попереджає. Якщо ви не відреагували, вона вимикає комп'ютер, поки світло ще є. Без різкого обриву живлення, пошкоджених файлів і зайвих хвилювань.
+
+Підходить для тих, хто залишає ПК увімкненим надовго: завантаження файлів, рендер, ігри, віддалена робота. Не треба самому стежити за графіком і чекати, коли ж вимкнуть світло.
+
+> Ключові слова: графіки відключень світла, автоматичне вимкнення комп'ютера, черга відключень, обленерго, ДТЕК, ЦЕК.
+> Автор: **SMOLT** · Мова інтерфейсу: українська · Windows 10 / 11
+
+---
+
+## Завантажити
+
+Запустіть файл і дотримуйтесь підказок встановлювача.
+
+> Під час встановлення Windows може попросити дозвіл адміністратора, це нормально: програма ставиться в Program Files.
+
+---
+
+## Що вміє
+
+- Автоматично вимикає ПК перед відключенням за вашою чергою (`1.1` … `6.2`).
+- Показує вікно-попередження з відліком, перш ніж вимкнути. У вас є час зберегти роботу.
+- Працює в треї, запускається разом із Windows.
+- Підтримує **13 джерел графіків** для різних областей та міст (список нижче).
+- Захист від помилок: графік перевіряється повторно, а застарілі або непідтверджені дані не використовуються для вимкнення.
+- Зберігає останній відомий графік, тому працює і без інтернету.
+- Веде журнал подій та статистику відключень.
+- Кілька тем оформлення.
+
+---
+
+## Звідки беруться дані
+
+Програма **сама не складає графіки**. Вона читає їх із відкритих джерел, які збирають інші люди з офіційних сайтів обленерго. Велика подяка авторам.
+
+У програмі є вікно **«Джерела»** (у розділі «Про програму»): там для вашої області показано джерело, автора та ліцензію.
+
+| Область / місто | Звідки береться графік | Офіційна сторінка обленерго |
+|---|---|---|
+| Сумська | Сервіс «Світло Суми» (`api.svitlosumy.pp.ua`) | [soe.com.ua](https://www.soe.com.ua/consumers/shutdowns?tab=hourly-schedules) |
+
+| Черкаська | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA) | [cherkasyoblenergo.com](https://cherkasyoblenergo.com/off) |
+
+| Чернігівська | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA) | [chernihivoblenergo.com.ua](https://chernihivoblenergo.com.ua/blackouts) |
+| Харківська | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA) | [oblenergo.kharkov.ua](https://oblenergo.kharkov.ua/uk/gaoinfo) |
+
+| Хмельницька | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA) | [hoe.com.ua](https://hoe.com.ua/shutdown/new) |
+
+| Полтавська | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA) | [poe.pl.ua](https://www.poe.pl.ua/disconnection/power-outages/) |
+
+| Запорізька | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA) | [zoe.com.ua](https://www.zoe.com.ua/%D0%B3%D1%80%D0%B0%D1%84%D1%96%D0%BA%D0%B8-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%BD%D0%B8%D1%85-%D1%81%D1%82%D0%B0%D0%B1%D1%96%D0%BB%D1%96%D0%B7%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%B8%D1%85/) |
+
+| Житомирська | [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA) | [ztoe.com.ua](https://www.ztoe.com.ua/unhooking-search.php) |
+
+| м. Київ | [Baskerville42/outage-data-ua](https://github.com/Baskerville42/outage-data-ua) (ліцензія MIT, Alexander Tartmin) | [dtek-kem.com.ua](https://www.dtek-kem.com.ua/ua/shutdowns) |
+
+| Київська | [Baskerville42/outage-data-ua](https://github.com/Baskerville42/outage-data-ua) (MIT) | [dtek-krem.com.ua](https://www.dtek-krem.com.ua/ua/shutdowns) |
+
+| Одеська | [Baskerville42/outage-data-ua](https://github.com/Baskerville42/outage-data-ua) (MIT) | [dtek-oem.com.ua](https://www.dtek-oem.com.ua/ua/shutdowns) |
+
+| Дніпропетровська (ДТЕК) | [Baskerville42/outage-data-ua](https://github.com/Baskerville42/outage-data-ua) (MIT) | [dtek-dnem.com.ua](https://www.dtek-dnem.com.ua/ua/shutdowns) |
+
+| Дніпропетровська (ЦЕК) | [szheliab/DNIPRO_CEK_PARSER](https://github.com/szheliab/DNIPRO_CEK_PARSER) | [cek.dp.ua](https://cek.dp.ua/index.php/24-callcenter/70-planovi-vidklyuchennya.html) |
+
+Про ліцензії: автори `yaroslav2901/OE_OUTAGE_DATA` та `szheliab/DNIPRO_CEK_PARSER` ліцензію у своїх репозиторіях не вказали. Програма не копіює їхні тексти, лише читає опубліковані файли з даними та дає посилання на авторів.
+
+---
+
+## Важливо знати
+
+- **Це неофіційна програма.** Вона не пов'язана з обленерго, ДТЕК, ЦЕК чи іншими енергокомпаніями, а лише користується відкритими графіками.
+- **Графіки можуть змінюватися.** Енергокомпанії інколи виправляють їх. Програма враховує нові дані, але ідеальної точності гарантувати не може.
+- **Вимкнення примусове.** Коли відлік закінчується, Windows вимикається з закриттям програм **без збереження**. Тому звертайте увагу на вікно-попередження і зберігайте роботу заздалегідь.
+- Користуйтесь на власну відповідальність. Автор не відповідає за втрачені дані.
+
+---
+
+## Зв'язок з автором
+
+Telegram: [t.me/SMOLTI](https://t.me/SMOLTI)
+
+*Знайшли помилку або маєте ідею? Напишіть мені.*
+
+Подяка:
+Якщо програма стала вам у пригоді можете підтримати автора у програмі буду дуже вдячний 😊
