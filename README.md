@@ -79,5 +79,6 @@ Telegram: [t.me/SMOLTI](https://t.me/SMOLTI)
 Подяка:
 Якщо програма стала вам у пригоді можете підтримати автора у програмі буду дуже вдячний 😊
 
-<img width="485" height="425" alt="Снимок экрана 2026-11-17 211656" src="https://github.com/user-attachments/assets/960cee4f-ea2d-43ee-8979-44c7372f18cf" />
+<img width="485" height="425" alt="Снимок экрана 2026-11-17 233712" src="https://github.com/user-attachments/assets/afbde5a7-c66e-4eb2-a82e-482d365be74b" />
+
 
