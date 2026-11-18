@@ -17,8 +17,8 @@
 
 > Під час встановлення Windows може попросити дозвіл адміністратора: програма ставиться в Program Files.
 
-<img width="900" height="675" alt="Снимок экрана 2026-11-17 210619" src="https://github.com/user-attachments/assets/cb24a95e-35ec-4cae-8ca3-3e2e1ff56543" />
-
+<img width="900" height="675" alt="Снимок экрана 2026-11-18 114434" src="https://github.com/user-attachments/assets/f6570efb-6ba2-473f-849b-1afc395167bb" />
+<img width="900" height="675" alt="Снимок экрана 2026-11-18 114440" src="https://github.com/user-attachments/assets/973f21a6-448e-462a-ab8e-479e8d77db07" />
 
 ## Що вміє
 
@@ -32,7 +32,8 @@
 - Кілька тем оформлення.
 - Пнопка оновлення програми.
 
-<img width="711" height="765" alt="Снимок экрана 2026-11-17 212320" src="https://github.com/user-attachments/assets/198ad477-3357-4e7a-b95b-6882e0428666" /> <img width="710" height="487" alt="Снимок экрана 2026-11-17 212336" src="https://github.com/user-attachments/assets/6721303f-2e73-40c3-b98b-4fb058fa4043" />
+<img width="712" height="651" alt="Снимок экрана 2026-11-18 114523" src="https://github.com/user-attachments/assets/50fdcd0a-4312-469f-b0bc-6d3617eb682a" />
+<img width="710" height="487" alt="Снимок экрана 2026-11-18 114547" src="https://github.com/user-attachments/assets/e6d334e6-c48a-495f-921e-94ea96f73aca" />
 
 ## Налаштування
 
@@ -100,6 +101,4 @@ Telegram: [t.me/SMOLTI](https://t.me/SMOLTI)
 Подяка:
 Якщо програма стала вам у пригоді можете підтримати автора у програмі буду вдячний за підтримку 😊
 
-<img width="485" height="425" alt="Снимок экрана 2026-11-17 233712" src="https://github.com/user-attachments/assets/afbde5a7-c66e-4eb2-a82e-482d365be74b" />
-
-
+<img width="485" height="425" alt="Снимок экрана 2026-11-18 114754" src="https://github.com/user-attachments/assets/b0759137-2c14-4f9c-9bec-4dc19d68afe4" />
