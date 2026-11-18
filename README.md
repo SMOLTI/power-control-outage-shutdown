@@ -18,7 +18,6 @@
 > Під час встановлення Windows може попросити дозвіл адміністратора: програма ставиться в Program Files.
 
 <img width="900" height="675" alt="Снимок экрана 2026-11-18 114434" src="https://github.com/user-attachments/assets/f6570efb-6ba2-473f-849b-1afc395167bb" />
-<img width="900" height="675" alt="Снимок экрана 2026-11-18 114440" src="https://github.com/user-attachments/assets/973f21a6-448e-462a-ab8e-479e8d77db07" />
 
 ## Що вміє
 
